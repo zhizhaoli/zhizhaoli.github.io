@@ -2,28 +2,28 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://varia.top:4000/tags/Kindle/</loc>
+        <loc>http://zhizhaoli.github.io/tags/Kindle/</loc>
         <lastmod>2017-05-15T15:19:04.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://varia.top:4000/tags/Cydia/</loc>
+        <loc>http://zhizhaoli.github.io/tags/Cydia/</loc>
         <lastmod>2017-05-15T15:31:12.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://varia.top:4000/tags/Fake-GPS-Pro/</loc>
+        <loc>http://zhizhaoli.github.io/tags/Fake-GPS-Pro/</loc>
         <lastmod>2017-05-15T15:36:42.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://varia.top:4000/tags/ssh%E7%99%BB%E9%99%86github/</loc>
+        <loc>http://zhizhaoli.github.io/tags/ssh%E7%99%BB%E9%99%86github/</loc>
         <lastmod>2017-05-16T15:19:48.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
